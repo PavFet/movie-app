@@ -1,2 +1,15 @@
 //colors 
 $yellow: #F5C518;
+
+
+//anim
+
+@keyframes showUpAnim {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}

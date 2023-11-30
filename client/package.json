@@ -10,7 +10,7 @@
     "@types/jest": "^27.5.2",
     "@types/node": "^16.18.61",
     "@types/react": "^18.2.37",
-    "@types/react-dom": "^18.2.15",
+    "@types/react-dom": "^18.2.0",
     "@types/react-redux": "^7.1.30",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -48,7 +48,8 @@
   },
   "devDependencies": {
     "@stylistic/eslint-plugin": "^1.1.0",
-    "@stylistic/eslint-plugin-js": "^1.1.0",
+    "@stylistic/eslint-plugin-js": "^1.4.1",
+    "@stylistic/eslint-plugin-ts": "^1.4.1",
     "node-sass": "^7.0.3",
     "sass": "^1.69.5",
     "sass-loader": "^13.3.2"
